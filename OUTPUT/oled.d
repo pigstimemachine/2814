@@ -1,0 +1,13 @@
+.\output\oled.o: HARDWARE\OLED\oled.c
+.\output\oled.o: HARDWARE\OLED\oled.h
+.\output\oled.o: .\SYSTEM\sys\sys.h
+.\output\oled.o: .\SYSTEM\sys\stm32f10x_map.h
+.\output\oled.o: .\SYSTEM\sys\stm32f10x_conf.h
+.\output\oled.o: .\SYSTEM\sys\stm32f10x_type.h
+.\output\oled.o: .\SYSTEM\sys\cortexm3_macro.h
+.\output\oled.o: .\SYSTEM\sys\stm32f10x_nvic.h
+.\output\oled.o: K:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\oled.o: HARDWARE\OLED\lcdfont.h
+.\output\oled.o: .\SYSTEM\delay\delay.h
+.\output\oled.o: K:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\oled.o: K:\keil5\ARM\ARMCC\Bin\..\include\string.h

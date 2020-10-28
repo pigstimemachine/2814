@@ -1,0 +1,7 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\HARDWARE\ADXL345 -I .\HARDWARE\IIC -I .\HARDWARE\TaskMgr -I .\HARDWARE\TIMER -I .\HARDWARE\USART2 -I .\SYSTEM\delay -I .\SYSTEM\sys -I .\SYSTEM\usart -I .\USER\TaskMgr -I .\HARDWARE\NRF24L01 -I .\HARDWARE\SPI -I .\USER -I .\HARDWARE\CodeModule -I .\HARDWARE\MLX90614 -I .\HARDWARE\UART4 -I .\USER\APP -I .\HARDWARE\CAN -I .\HARDWARE\LED -I .\HARDWARE\FLASH -I .\HARDWARE\CH454 -I .\HARDWARE\KEY -I .\HARDWARE\OLED -I .\STM32F10x_FWLib\inc
+-I.\RTE\Device\STM32F103C8
+-I.\RTE\_Target_1
+-ID:\keil5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include
+-ID:\keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD
+-o .\output\stm32f10x_iwdg.o --omf_browse .\output\stm32f10x_iwdg.crf --depend .\output\stm32f10x_iwdg.d "STM32F10x_FWLib\src\stm32f10x_iwdg.c"

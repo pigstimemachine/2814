@@ -1,0 +1,9 @@
+.\output\ch454w3.o: HARDWARE\CH454\CH454W3.C
+.\output\ch454w3.o: HARDWARE\CH454\CH454CMD.H
+.\output\ch454w3.o: .\SYSTEM\sys\sys.h
+.\output\ch454w3.o: .\SYSTEM\sys\stm32f10x_map.h
+.\output\ch454w3.o: .\SYSTEM\sys\stm32f10x_conf.h
+.\output\ch454w3.o: .\SYSTEM\sys\stm32f10x_type.h
+.\output\ch454w3.o: .\SYSTEM\sys\cortexm3_macro.h
+.\output\ch454w3.o: .\SYSTEM\sys\stm32f10x_nvic.h
+.\output\ch454w3.o: K:\keil5\ARM\ARMCC\Bin\..\include\string.h

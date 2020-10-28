@@ -1,0 +1,15 @@
+.\output\showinterface.o: HARDWARE\OLED\ShowInterface.c
+.\output\showinterface.o: HARDWARE\OLED\oled.h
+.\output\showinterface.o: .\SYSTEM\sys\sys.h
+.\output\showinterface.o: .\SYSTEM\sys\stm32f10x_map.h
+.\output\showinterface.o: .\SYSTEM\sys\stm32f10x_conf.h
+.\output\showinterface.o: .\SYSTEM\sys\stm32f10x_type.h
+.\output\showinterface.o: .\SYSTEM\sys\cortexm3_macro.h
+.\output\showinterface.o: .\SYSTEM\sys\stm32f10x_nvic.h
+.\output\showinterface.o: K:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\showinterface.o: .\SYSTEM\delay\delay.h
+.\output\showinterface.o: HARDWARE\OLED\ShowInterface.h
+.\output\showinterface.o: .\USER\APP\UAPP_CAN.h
+.\output\showinterface.o: .\HARDWARE\KEY\key.h
+.\output\showinterface.o: HARDWARE\OLED\pic.h
+.\output\showinterface.o: .\USER\APP\UAPP_Senser.h
